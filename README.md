@@ -7,6 +7,10 @@ To access our application you can either download the [android application]().
 - [Google Slides Presentation](https://docs.google.com/presentation/d/1VxxluxgWW_ybU4xPmC5XAu8mPKcrk6lv/edit#slide=id.g83372e3e9c_0_0)
 - [Video Demonstration](https://drive.google.com/file/d/1FPoRCECrZcSqU0Shb-bBs8sFwb-31hp5/view?usp=sharing)
 
+
+### Backend Link
+**[Link](https://github.com/Hackstreet-Zone/DiagnoX)**
+
 ## Motivation 
 X-rays are a commonly used diagnostic tool in medical settings. They are used to visualize the internal structure of the body and help doctors diagnose various diseases and conditions. However, the interpretation of X-rays can be challenging and requires a high level of expertise. Misinterpretation of X-rays can lead to misdiagnosis and delay in treatment, resulting in further complications.
 
@@ -27,19 +31,19 @@ DiagnoX is designed to be highly user-friendly, with a simple interface that can
 - Easy to understand Minimilastic and Interactive UI/UX Design 
 
 ## Proposed Approach:
-<img src="mockups/architecture.png" >
+<img src="mockups/architecture.jpeg" >
 
 
 ## Mockups
 <table>
     <tr>
-        <td><img src="mockups/1.jpg"></td>
-        <td><img src="mockups/2.jpg"></td>
+        <td><img src="mockups/1.png"></td>
+        <td><img src="mockups/2.png"></td>
     </tr>
     <tr>
-        <td><img src="mockups/3.jpg"></td>
-        <td><img src="mockups/4.jpg"></td>
-        <td><img src="mockups/5.jpg"></td>
+        <td><img src="mockups/3.png"></td>
+        <td><img src="mockups/4.png"></td>
+        <td><img src="mockups/5.png"></td>
     </tr>
 </table>
 
